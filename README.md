@@ -1,4 +1,3 @@
-## Hi there 👋
 ![Mein Banner](banner/Banner.png)
 
 # **FULL STACK DEVELOPER IN TRAINING**
@@ -18,4 +17,4 @@
 
 ### 💻 Skills
 ![HTML](badges/HTML-badges.svg)
-![CSS](badges/CSS-badges.s
+![CSS](badges/CSS-badges.svg)
