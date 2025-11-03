@@ -1,4 +1,3 @@
-## Hi there 👋
 ![Mein Banner](banner/Banner.png)
 
 # **FULL STACK DEVELOPER IN TRAINING**
