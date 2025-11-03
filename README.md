@@ -17,4 +17,4 @@
 
 ### 💻 Skills
 ![HTML](badges/HTML-badges.svg)
-![CSS](badges/CSS-badges.s)
+![CSS](badges/CSS-badges.svg)
