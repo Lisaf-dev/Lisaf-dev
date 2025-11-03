@@ -1,16 +1,21 @@
 ## Hi there 👋
+![Mein Banner](banner/Banner.png)
 
-<!--
-**Lisaf-dev/Lisaf-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **FULL STACK DEVELOPER IN TRAINING**
+*always learning and enjoying the journey!*  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### 💬 About Me
+- 👩‍⚕️ Nurse | Fullstack developer in training
+- 💻 Discovered a passion for web development
+- ✨ Excited for upcoming projects
+
+### 🌱 Learning
+![JavaScript](badges/JavaScript-badges.svg)
+
+### 💻 Skills
+![HTML](badges/HTML-badges.svg)
+![CSS](badges/CSS-badges.s
